@@ -4,4 +4,8 @@ It is codility solutions in Go/Golang. <br />
 <br />
 <br />
 ## Lesson 1 Iterations
-* [BinaryGap](https://github.com/Luidy/codility-golang/blob/master/Lesson1/binaryGap.go)
+* [BinaryGap](https://github.com/Luidy/codility-golang/blob/master/Lesson1/01_binaryGap.go)
+<br />
+
+## Lesson 2 Arrays
+* [CyclicRotation](https://github.com/Luidy/codility-golang/blob/master/Lesson2/01_cyclicRotation.go)
