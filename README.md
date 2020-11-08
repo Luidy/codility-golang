@@ -9,3 +9,7 @@ It is codility solutions in Go/Golang. <br />
 
 ## Lesson 2 Arrays
 * [CyclicRotation](https://github.com/Luidy/codility-golang/blob/master/Lesson2/01_cyclicRotation.go)
+<br />
+
+## Lesson 3 Time Complexity
+* [FrogJmp](https://github.com/Luidy/codility-golang/blob/master/Lesson3/01_frogJmp.go)
