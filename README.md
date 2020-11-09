@@ -13,3 +13,7 @@ It is codility solutions in Go/Golang. <br />
 
 ## Lesson 3 Time Complexity
 * [FrogJmp](https://github.com/Luidy/codility-golang/blob/master/Lesson3/01_frogJmp.go)
+<br />
+
+## Lesson 4 Counting Elements
+* [FrogRiverOne](https://github.com/Luidy/codility-golang/blob/master/Lesson4/01_frogRiverOne.go)
