@@ -17,3 +17,7 @@ It is codility solutions in Go/Golang. <br />
 
 ## Lesson 4 Counting Elements
 * [FrogRiverOne](https://github.com/Luidy/codility-golang/blob/master/Lesson4/01_frogRiverOne.go)
+<br />
+
+## Lesson 5 Prefix Sums
+* [CountDiv](https://github.com/Luidy/codility-golang/blob/master/Lesson5/01_countDiv.go)
