@@ -21,3 +21,15 @@ It is codility solutions in Go/Golang. <br />
 
 ## Lesson 5 Prefix Sums
 * [CountDiv](https://github.com/Luidy/codility-golang/blob/master/Lesson5/01_countDiv.go)
+<br />
+
+## Lesson 6 Sorting
+* [Distinct](https://github.com/Luidy/codility-golang/blob/master/Lesson6/01_distinct.go)
+<br />
+
+## Lesson 7 Stacks and Queues
+* [Brackets](https://github.com/Luidy/codility-golang/blob/master/Lesson7/01_brackets.go)
+<br />
+
+## Lesson 8 Leader
+* [Dominator](https://github.com/Luidy/codility-golang/blob/master/Lesson8/01_dominator.go)
