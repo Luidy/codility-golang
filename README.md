@@ -31,5 +31,5 @@ It is codility solutions in Go/Golang. <br />
 * [Brackets](https://github.com/Luidy/codility-golang/blob/master/Lesson7/01_brackets.go)
 <br />
 
-## Lesson 8 Leader 
+## Lesson 8 Leader   
 * [Dominator](https://github.com/Luidy/codility-golang/blob/master/Lesson8/01_dominator.go)
