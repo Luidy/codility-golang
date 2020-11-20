@@ -33,3 +33,7 @@ It is codility solutions in Go/Golang. <br />
 
 ## Lesson 8 Leader
 * [Dominator](https://github.com/Luidy/codility-golang/blob/master/Lesson8/01_dominator.go)
+<br />
+
+## Lesson 9 Maximum slice problem
+* [MaxDoubleSliceSum](https://github.com/Luidy/codility-golang/blob/master/Lesson9/01_maxDoubleSliceSum.go)
