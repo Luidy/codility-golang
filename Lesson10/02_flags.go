@@ -18,5 +18,24 @@ func Solution(A []int) int {
 	if len(peak) <= 2 {
 		return len(peak)
 	}
-	return 0
+	flag := 0
+	for i := len(peak); i > 1; i-- {
+		curFlag := 1
+		curPos := peak[0]
+		for x := 1; x < len(peak); x++ {
+			if peak[x]-curPos >= i {
+				curFlag++
+				curPos = peak[x]
+			} else {
+				continue
+			}
+			if i == curFlag {
+				break
+			}
+		}
+		if flag < curFlag {
+			flag = curFlag
+		}
+	}
+	return flag
 }
