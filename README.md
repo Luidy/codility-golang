@@ -37,3 +37,7 @@ It is codility solutions in Go/Golang. <br />
 
 ## Lesson 9 Maximum slice problem
 * [MaxDoubleSliceSum](https://github.com/Luidy/codility-golang/blob/master/Lesson9/01_maxDoubleSliceSum.go)
+<br />
+
+## Lesson 10 Prime and composite numbers
+* [CountFactors](https://github.com/Luidy/codility-golang/blob/master/Lesson10/01_countFactors.go)
