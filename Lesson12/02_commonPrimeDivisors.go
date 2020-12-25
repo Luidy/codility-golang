@@ -16,5 +16,24 @@ func gcd(a, b int) int {
 }
 func Solution(A []int, B []int) int {
 	// write your code in Go 1.4
-	return 0
+	result := 0
+	for i := 0; i < len(A); i++ {
+		abGcd := gcd(A[i], B[i])
+		a := A[i] / abGcd
+		aGcd := gcd(a, abGcd)
+		for aGcd != 1 {
+			a = a / aGcd
+			aGcd = gcd(aGcd, a)
+		}
+		b := B[i] / abGcd
+		bGcd := gcd(b, abGcd)
+		for bGcd != 1 {
+			b = b / bGcd
+			bGcd = gcd(bGcd, b)
+		}
+		if a == b {
+			result++
+		}
+	}
+	return result
 }
