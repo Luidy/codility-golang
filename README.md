@@ -41,3 +41,7 @@ It is codility solutions in Go/Golang. <br />
 
 ## Lesson 10 Prime and composite numbers
 * [CountFactors](https://github.com/Luidy/codility-golang/blob/master/Lesson10/01_countFactors.go)
+<br />
+
+## Lesson 11 Sieve of Eratosthenes
+* [CountNonDivisible](https://github.com/Luidy/codility-golang/blob/master/Lesson11/01_countNonDivisible.go)
