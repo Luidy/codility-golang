@@ -2,7 +2,7 @@ package solution
 
 // you can also use imports, for example:
 import (
-	"fmt"
+	// "fmt"
 	"sort"
 )
 
@@ -14,7 +14,7 @@ type Matrix [][]int
 
 func getMinIndex(start, end int, nail Matrix, index int) int {
 	min := 0
-	max := nail.Len() - 1
+	max := len(nail) - 1
 	minIndex := -1
 	for min <= max {
 		mid := (min + max) / 2
@@ -30,7 +30,19 @@ func getMinIndex(start, end int, nail Matrix, index int) int {
 	if minIndex == -1 {
 		return -1
 	}
-	return minIndex
+	minIndexOrigin := nail[minIndex][1]
+	for i := minIndex; i < len(nail); i++ {
+		if nail[i][0] > end {
+			break
+		}
+		if minIndexOrigin > nail[i][1] {
+			minIndexOrigin = nail[i][1]
+		}
+		if minIndexOrigin <= index {
+			return index
+		}
+	}
+	return minIndexOrigin
 }
 
 func (m Matrix) Len() int           { return len(m) }
@@ -48,11 +60,12 @@ func Solution(A []int, B []int, C []int) int {
 		sortNail[i][1] = i
 	}
 	sort.Sort(sortNail)
-	fmt.Printf("%v \n", sortNail)
 	result := 0
 	for i := 0; i < len(A); i++ {
 		result = getMinIndex(A[i], B[i], sortNail, result)
-		fmt.Printf("A %d B %d i %d, minIndex %d \n", A[i], B[i], i, result)
+		if result == -1 {
+			return -1
+		}
 	}
-	return -1
+	return result + 1
 }
