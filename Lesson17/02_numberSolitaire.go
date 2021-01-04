@@ -3,6 +3,7 @@ package solution
 // you can also use imports, for example:
 // import "fmt"
 // import "os"
+import "math"
 
 // you can write to stdout for debugging purposes, e.g.
 // fmt.Println("this is a debug message")
@@ -13,10 +14,10 @@ func Solution(A []int) int {
 	mark := make([]int, N)
 
 	for i := 0; i < N; i++ {
-		mark[i] = -10000
+		mark[i] = math.MinInt64
 	}
-
 	mark[0] = A[0]
+
 	for i := 0; i < N; i++ {
 		for die := 1; die <= 6; die++ {
 			next := i + die
