@@ -5,11 +5,11 @@ It is codility solutions in Go/Golang. <br />
 <br />
 ## Lesson 1 Iterations
 * [BinaryGap](https://github.com/Luidy/codility-golang/blob/master/Lesson1/01_binaryGap.go)
-* [OddOccurrencesInArray](https://github.com/Luidy/codility-golang/blob/master/Lesson02/02_oddOccurrencesInArray.go)
 <br />
 
 ## Lesson 2 Arrays
 * [CyclicRotation](https://github.com/Luidy/codility-golang/blob/master/Lesson2/01_cyclicRotation.go)
+* [OddOccurrencesInArray](https://github.com/Luidy/codility-golang/blob/master/Lesson02/02_oddOccurrencesInArray.go)
 <br />
 
 ## Lesson 3 Time Complexity
