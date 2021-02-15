@@ -14,10 +14,15 @@ It is codility solutions in Go/Golang. <br />
 
 ## Lesson 3 Time Complexity
 * [FrogJmp](https://github.com/Luidy/codility-golang/blob/master/Lesson3/01_frogJmp.go)
+* [PermMissingElem](https://github.com/Luidy/codility-golang/blob/master/Lesson03/02_permMissingElem.go)
+* [TapeEquilibrium](https://github.com/Luidy/codility-golang/blob/master/Lesson03/03_tapeEquilibrium.go)
 <br />
 
 ## Lesson 4 Counting Elements
 * [FrogRiverOne](https://github.com/Luidy/codility-golang/blob/master/Lesson4/01_frogRiverOne.go)
+* [MaxCounters](https://github.com/Luidy/codility-golang/blob/master/Lesson04/02_maxCounters.go)
+* [MissingInteger](https://github.com/Luidy/codility-golang/blob/master/Lesson04/03_missingInteger.go)
+* [PermCheck](https://github.com/Luidy/codility-golang/blob/master/Lesson04/04_permCheck.go)
 <br />
 
 ## Lesson 5 Prefix Sums
