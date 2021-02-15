@@ -4,33 +4,39 @@ It is codility solutions in Go/Golang. <br />
 <br />
 <br />
 ## Lesson 1 Iterations
-* [BinaryGap](https://github.com/Luidy/codility-golang/blob/master/Lesson1/01_binaryGap.go)
+* [BinaryGap](https://github.com/Luidy/codility-golang/blob/master/Lesson01/01_binaryGap.go)
 <br />
 
 ## Lesson 2 Arrays
-* [CyclicRotation](https://github.com/Luidy/codility-golang/blob/master/Lesson2/01_cyclicRotation.go)
+* [CyclicRotation](https://github.com/Luidy/codility-golang/blob/master/Lesson02/01_cyclicRotation.go)
 * [OddOccurrencesInArray](https://github.com/Luidy/codility-golang/blob/master/Lesson02/02_oddOccurrencesInArray.go)
 <br />
 
 ## Lesson 3 Time Complexity
-* [FrogJmp](https://github.com/Luidy/codility-golang/blob/master/Lesson3/01_frogJmp.go)
+* [FrogJmp](https://github.com/Luidy/codility-golang/blob/master/Lesson03/01_frogJmp.go)
 * [PermMissingElem](https://github.com/Luidy/codility-golang/blob/master/Lesson03/02_permMissingElem.go)
 * [TapeEquilibrium](https://github.com/Luidy/codility-golang/blob/master/Lesson03/03_tapeEquilibrium.go)
 <br />
 
 ## Lesson 4 Counting Elements
-* [FrogRiverOne](https://github.com/Luidy/codility-golang/blob/master/Lesson4/01_frogRiverOne.go)
+* [FrogRiverOne](https://github.com/Luidy/codility-golang/blob/master/Lesson04/01_frogRiverOne.go)
 * [MaxCounters](https://github.com/Luidy/codility-golang/blob/master/Lesson04/02_maxCounters.go)
 * [MissingInteger](https://github.com/Luidy/codility-golang/blob/master/Lesson04/03_missingInteger.go)
 * [PermCheck](https://github.com/Luidy/codility-golang/blob/master/Lesson04/04_permCheck.go)
 <br />
 
 ## Lesson 5 Prefix Sums
-* [CountDiv](https://github.com/Luidy/codility-golang/blob/master/Lesson5/01_countDiv.go)
+* [CountDiv](https://github.com/Luidy/codility-golang/blob/master/Lesson05/01_countDiv.go)
+* [GenomicRangeQuery](https://github.com/Luidy/codility-golang/blob/master/Lesson05/02_genomicRangeQuery.go)
+* [MinAvgTwoSlice](https://github.com/Luidy/codility-golang/blob/master/Lesson05/03_minAvgTwoSlice.go)
+* [PassingCars](https://github.com/Luidy/codility-golang/blob/master/Lesson05/04_passingCars.go)
 <br />
 
 ## Lesson 6 Sorting
-* [Distinct](https://github.com/Luidy/codility-golang/blob/master/Lesson6/01_distinct.go)
+* [Distinct](https://github.com/Luidy/codility-golang/blob/master/Lesson06/01_distinct.go)
+* [MaxProductOfThree](https://github.com/Luidy/codility-golang/blob/master/Lesson06/02_maxProductOfThree.go)
+* [NumberOfDiscIntersections](https://github.com/Luidy/codility-golang/blob/master/Lesson06/03_numberOfDiscIntersections.go)
+* [Triangle](https://github.com/Luidy/codility-golang/blob/master/Lesson06/04_triangle.go)
 <br />
 
 ## Lesson 7 Stacks and Queues
