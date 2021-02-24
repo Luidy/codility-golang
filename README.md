@@ -40,7 +40,10 @@ It is codility solutions in Go/Golang. <br />
 <br />
 
 ## Lesson 7 Stacks and Queues
-* [Brackets](https://github.com/Luidy/codility-golang/blob/master/Lesson7/01_brackets.go)
+* [Brackets](https://github.com/Luidy/codility-golang/blob/master/Lesson07/01_brackets.go)
+* [Fish](https://github.com/Luidy/codility-golang/blob/master/Lesson07/02_fish.go)
+* [Nesting](https://github.com/Luidy/codility-golang/blob/master/Lesson07/03_nesting.go)
+* [StoneWall](https://github.com/Luidy/codility-golang/blob/master/Lesson07/04_stoneWall.go)
 <br />
 
 ## Lesson 8 Leader
