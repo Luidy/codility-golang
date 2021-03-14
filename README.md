@@ -47,15 +47,21 @@ It is codility solutions in Go/Golang. <br />
 <br />
 
 ## Lesson 8 Leader
-* [Dominator](https://github.com/Luidy/codility-golang/blob/master/Lesson8/01_dominator.go)
+* [Dominator](https://github.com/Luidy/codility-golang/blob/master/Lesson08/01_dominator.go)
+* [EquiLeader](https://github.com/Luidy/codility-golang/blob/master/Lesson08/02_equiLeader.go)
 <br />
 
 ## Lesson 9 Maximum slice problem
-* [MaxDoubleSliceSum](https://github.com/Luidy/codility-golang/blob/master/Lesson9/01_maxDoubleSliceSum.go)
+* [MaxDoubleSliceSum](https://github.com/Luidy/codility-golang/blob/master/Lesson09/01_maxDoubleSliceSum.go)
+* [MaxProfit](https://github.com/Luidy/codility-golang/blob/master/Lesson09/02_maxProfit.go)
+* [MaxSliceSum](https://github.com/Luidy/codility-golang/blob/master/Lesson09/03_maxSliceSum.go)
 <br />
 
 ## Lesson 10 Prime and composite numbers
 * [CountFactors](https://github.com/Luidy/codility-golang/blob/master/Lesson10/01_countFactors.go)
+* [Flags](https://github.com/Luidy/codility-golang/blob/master/Lesson10/02_flags.go)
+* [MinPerimeterRectangle](https://github.com/Luidy/codility-golang/blob/master/Lesson10/03_minPerimeterRectangle.go)
+* [Peaks](https://github.com/Luidy/codility-golang/blob/master/Lesson10/04_peaks.go)
 <br />
 
 ## Lesson 11 Sieve of Eratosthenes
