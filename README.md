@@ -66,3 +66,36 @@ It is codility solutions in Go/Golang. <br />
 
 ## Lesson 11 Sieve of Eratosthenes
 * [CountNonDivisible](https://github.com/Luidy/codility-golang/blob/master/Lesson11/01_countNonDivisible.go)
+* [CountSemiprimes](https://github.com/Luidy/codility-golang/blob/master/Lesson11/02_countSemiprimes.go)
+<br />
+
+## Lesson 12 Euclidean algorithm
+* [ChocolatesByNumbers](https://github.com/Luidy/codility-golang/blob/master/Lesson12/01_chocolatesByNumbers.go)
+* [CommonPrimeDivisors](https://github.com/Luidy/codility-golang/blob/master/Lesson12/02_commonPrimeDivisors.go)
+<br />
+
+## Lesson 13 Fibonacci numbers
+* [FibFrog](https://github.com/Luidy/codility-golang/blob/master/Lesson13/01_fibFrog.go)
+* [Ladder](https://github.com/Luidy/codility-golang/blob/master/Lesson13/02_ladder.go)
+<br />
+
+## Lesson 14 Binary search algorithm
+* [MinMaxDivision](https://github.com/Luidy/codility-golang/blob/master/Lesson14/01_minMaxDivision.go)
+* [NailingPlanks](https://github.com/Luidy/codility-golang/blob/master/Lesson14/02_nailingPlanks.go)
+<br />
+
+## Lesson 15 Caterpillar method
+* [AbsDistinct](https://github.com/Luidy/codility-golang/blob/master/Lesson15/01_absDistinct.go)
+* [CountDistinctSlices](https://github.com/Luidy/codility-golang/blob/master/Lesson15/02_countDistinctSlices.go)
+* [CountTriangles](https://github.com/Luidy/codility-golang/blob/master/Lesson15/03_countTriangles.go)
+* [MinAbsSumOfTwo](https://github.com/Luidy/codility-golang/blob/master/Lesson15/04_minAbsSumOfTwo.go)
+<br />
+
+## Lesson 16 Greedy algorithms
+* [MaxNonoverlappingSegments](https://github.com/Luidy/codility-golang/blob/master/Lesson16/01_maxNonoverlappingSegments.go)
+* [TieRopes](https://github.com/Luidy/codility-golang/blob/master/Lesson16/02_tieRopes.go)
+<br />
+
+## Lesson 17 Dynamic programming
+* [MinAbsSum](https://github.com/Luidy/codility-golang/blob/master/Lesson17/01_minAbsSum.go)
+* [NumberSolitaire](https://github.com/Luidy/codility-golang/blob/master/Lesson17/02_numberSolitaire.go)
